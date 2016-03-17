@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmln   = "http://www.w3.org/ns/widgets"
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.phonegap.example1"
         versionCode = "10" 
@@ -19,7 +19,7 @@
         Jose Antonio Gomez Hernandez
     </author>
 	
-<gap:plugin name="org.apache.cordova.devic" version="0.2.12" />
+<gap:plugin name="org.apache.cordova.device" version="0.2.12" />
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 
